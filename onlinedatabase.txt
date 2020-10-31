@@ -1,0 +1,10 @@
+DB name=id13868614_vasuprinters
+DB username=id13868614_swapniljain
+password=sherlock!OO7
+
+
+Infinity Hosting
+
+username:epiz_25896122
+
+http://185.27.134.10/db_structure.php?db=epiz_25896122_swapnil
