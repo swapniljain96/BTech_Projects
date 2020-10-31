@@ -1,0 +1,22 @@
+admin
+
+appcook@panthers.io
+
+contentmanager@smilefarm.io
+
+subjectmatterexpert@smilefarm.io
+
+generalfarmer@smilefarm.io
+
+
+
+
+
+dashboard
+chatter
+masters
+users
+report
+Query model
+360Sms module
+email
